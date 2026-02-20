@@ -1,0 +1,24 @@
+[2024-04-14 14:10:57] 
+        Текст ошибки: Undefined variable: e |
+        Файл: C:\xampp2\htdocs\framework\public\test\error\index.php |
+        Строка: 81
+        
+======
+[2024-04-14 14:11:27] 
+        Текст ошибки: Call to undefined function test() |
+        Файл: C:\xampp2\htdocs\framework\public\test\error\index.php |
+        Строка: 111
+        
+======
+[2024-04-14 14:12:31] 
+        Текст ошибки: Undefined variable: test33 |
+        Файл: C:\xampp2\htdocs\framework\public\test\error\index.php |
+        Строка: 109
+        
+======
+[2024-04-14 14:12:44] 
+        Текст ошибки: Ooops |
+        Файл: C:\xampp2\htdocs\framework\public\test\error\index.php |
+        Строка: 122
+        
+======
