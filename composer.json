@@ -1,0 +1,14 @@
+{
+    "name": "framework/framework",
+    "require": {
+        "monolog/monolog": "^2.9",
+        "phpmailer/phpmailer": "^6.9",
+        "vlucas/valitron": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "framework\\": "vendor/framework",
+            "app\\": "app"
+        }
+    }
+}
